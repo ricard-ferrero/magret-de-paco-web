@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+  background-color: black;
+  color: white;
+  margin: 0;
+}
+
+header {
+  height: 50vh;
+  background: no-repeat url("../img/mdp.png") center;
+  background-size: contain;
+}
