@@ -3,10 +3,43 @@ html, body {
   background-color: black;
   color: white;
   margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
   height: 50vh;
   background: no-repeat url("../img/mdp.png") center;
   background-size: contain;
+}
+
+main, footer {
+  padding: 0 50px;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+section {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.presentation {
+
+}
+
+.videos {
+  padding: 30px;
+}
+
+.videos-content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.videos-content iframe {
+  width: 560px;
+  height: 315px;
 }
