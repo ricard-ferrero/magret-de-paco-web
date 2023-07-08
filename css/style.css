@@ -6,38 +6,22 @@ html, body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/*
-header {
-  height: 50vh;
-  background: no-repeat url("../img/mdp.png") center;
-  background-size: contain;
-}
-
-.carousel {
-  width: 100%;
+.img-container {
   overflow: hidden;
-}
-
-.carousel-container {
-  display: flex;
-  transition: transform 0.5s ease;
-}
-
-.carousel img {
-  width: 100vw;
-  height: auto;
-}
-*/
-
-.header {
-  height: 50vh;
+  height: 450px;
   width: 100%;
-  overflow: hidden;
+  text-align: center;
 }
 
-.header img {
-  float: none;
-  object-fit: contain;
+.logo {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.photo {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
 }
 
 .d-none {
