@@ -74,3 +74,18 @@ section {
   width: 560px;
   height: 315px;
 }
+
+footer {
+  min-height: 50px;
+}
+.icons-container {
+  max-width: 200px;
+  margin: auto auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.icons-container-icon {
+  max-width: 30px;
+  max-width: 30px;
+}
