@@ -89,3 +89,9 @@ footer {
   max-width: 30px;
   max-width: 30px;
 }
+
+.contact-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
