@@ -119,6 +119,11 @@ footer {
     height: 250px;
   }
 
+  .img-container-logo {
+    height: 100%;
+  }
+  
+
   .photo {
     max-height: 250px;
   }
@@ -132,6 +137,11 @@ footer {
   header .img-container {
     height: 200px;
   }
+
+  .img-container-logo {
+    height: 100%;
+  }
+  
 
   .photo {
     max-height: 200px;
@@ -152,6 +162,10 @@ footer {
     height: 150px;
   }
 
+  .img-container-logo {
+    height: 100%;
+  }
+  
   .photo {
     max-height: 150px;
   }
