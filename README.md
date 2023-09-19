@@ -1,5 +1,5 @@
 # Magret de Paco Web
 
-This will be de web page to the rock band Magret de Paco.
+Source code of the web page for Magret de Paco
 
-https://ricard-ferrero.github.io/magret-de-paco-web/
+https://magretdepaco.com/
